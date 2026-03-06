@@ -18,10 +18,10 @@ The Vision Reformer (ViR) model is compared with a **standard Vision Transformer
 
 ### Model Performance
 
-| Model | Learning Rate | Accuracy | Precision | Recall | F1-score |
-| ----- | ------------- | -------- | --------- | ------ | -------- |
-| ViR   | 0.0001        | 0.9463   | 0.9589    | 0.9463 | 0.9477   |
-| ViT   | 0.0001        | 0.9411   | –         | –      | –        |
+| Model | Learning Rate | Accuracy |
+| ----- | ------------- | -------- | 
+| ViR   | 0.0001        | 0.9463   | 
+| ViT   | 0.0001        | 0.9411   | –        |
 
 ### Training Time
 
